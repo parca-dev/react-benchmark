@@ -1,4 +1,4 @@
-# react-benchmark
+# @parca/react-benchmark
 
 ![Demo](demo.gif)
 
